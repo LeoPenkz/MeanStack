@@ -1,0 +1,11 @@
+
+
+ng g c gst-add
+ng g c gst-get
+ng g c gst-edit
+
+ng g class business
+ng g s business
+
+npm install --save express body-parser cors mongoose
+npm install nodemon --save-dev
